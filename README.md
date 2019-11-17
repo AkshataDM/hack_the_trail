@@ -1,1 +1,1 @@
-# hack_the_trail
+# Hack the trail code solutions
